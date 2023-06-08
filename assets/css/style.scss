@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+{
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
@@ -80,4 +81,4 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
-
+}
