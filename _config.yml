@@ -2,8 +2,8 @@ remote_theme: pages-themes/cayman@v0.2.0
 title: Welcome to Monish Deshmukh's Portfolio
 description: A website for portfolio of Monish Deshmukh
 show_downloads: true
-footer-links:
-email: monishdeshmukh4124@gmail.com
-Github: https://github.com/Monishnd
-linkedin: https://www.linkedin.com/in/monish-deshmukh-0a5a41257/
-instagram: https://www.instagram.com/mon1sh.d/
+footer-links: 
+  email: monishdeshmukh4124@gmail.com
+  Github: https://github.com/Monishnd
+  linkedin: https://www.linkedin.com/in/monish-deshmukh-0a5a41257/
+  instagram: https://www.instagram.com/mon1sh.d/
